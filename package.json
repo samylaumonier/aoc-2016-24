@@ -1,0 +1,19 @@
+{
+  "name": "advent-of-code-2016-day-24",
+  "private": true,
+  "version": "1.0.0",
+  "description": "adventofcode.com/2016 - Day 24 - Animated solution",
+  "main": "index.js",
+  "scripts": {
+    "solve": "node index.js"
+  },
+  "author": "Samy Laumonier <samy.laumonier@gmail.com> (https://github.com/samybob1)",
+  "license": "MIT",
+  "dependencies": {
+    "clear": "0.0.1",
+    "colors": "^1.1.2",
+    "get-stdin": "^5.0.1",
+    "permutation": "0.0.1",
+    "sleep": "^5.0.0"
+  }
+}
