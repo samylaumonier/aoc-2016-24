@@ -262,7 +262,7 @@ try {
 	}
 
 	getStdin().then(stdin => {
-		stdin = stdin.trim();
+		stdin = stdin.replace(/\r\n?/, '\n').trim();
 
 		if (stdin.length === 0) {
 			throw new Error('Invalid input');
