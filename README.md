@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Preview - Part 2](./preview.jpg?raw=true "Preview - Part 2")
+![Preview - Part 2](preview.png)
 
 ## Requirements
 
