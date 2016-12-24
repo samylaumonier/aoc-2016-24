@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Preview - Part 2](preview.png)
+![Preview - Part 2](preview.gif)
 
 ## Requirements
 
