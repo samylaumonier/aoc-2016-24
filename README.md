@@ -11,7 +11,7 @@ Node 6
 ## Installation
 
 ```bash
-    npm i
+npm i
 ```
 
 ## Usage
@@ -19,11 +19,11 @@ Node 6
 ### Part 1
 
 ```bash
-	npm run solve 1 < input.txt
+npm run solve 1 < input.txt
 ```
 
 ### Part 2
 
 ```bash
-	npm run solve 2 < input.txt
+npm run solve 2 < input.txt
 ```
